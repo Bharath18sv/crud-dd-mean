@@ -231,4 +231,4 @@ jobs:
 
 ## Repository Link
 
-[GitHub Repository](https://github.com/Bharath18sv/crud-dd-task-mean-app)
+[GitHub Repository](https://github.com/Bharath18sv/crud-dd-mean)

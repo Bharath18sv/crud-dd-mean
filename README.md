@@ -206,20 +206,20 @@ jobs:
 ### Application Screenshots
 
 ### CI/CD Execution on GitHub Actions
-![GitHub Actions Workflow](screenshots/CI-CD.png)
+![GitHub Actions Workflow](snapshots/CI-CD.png)
 
 
 ### Docker Image Build & Push Logs
-![Docker Build Logs](screenshots/docker-logs.png)
+![Docker Build Logs](snapshots/docker-logs.png)
 
 
 ### Frontend UI Running on VM
-![Frontend Application](screenshots/GUI.png)
+![Frontend Application](snapshots/GUI.png)
 ![MongoDB Server](MongoDB.png)
 
 
 ### Backend API Response in Browser/Postman
-![API Response](screenshots/api-response.png)
+![API Response](snapshots/api-response.png)
 
 
 ## Nginx Setup & Infrastructure

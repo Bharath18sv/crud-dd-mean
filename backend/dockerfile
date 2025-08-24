@@ -1,5 +1,5 @@
 # backend/Dockerfile
-FROM node:20
+FROM node:20-alpine
 
 # Set working directory
 WORKDIR /app
@@ -14,7 +14,7 @@ RUN npm install
 COPY . .
 
 # Expose port
-EXPOSE 5000
+EXPOSE 6000
 
 # Start the server
 CMD ["npm", "start"]

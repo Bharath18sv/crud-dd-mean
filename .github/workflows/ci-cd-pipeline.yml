@@ -36,6 +36,6 @@ jobs:
           username: ubuntu
           key: ${{ secrets.VM_SSH_KEY }}
           script: |
-            cd /home/ubuntu/crud-dd-task-mean-app
+            cd /home/ubuntu/crud-dd-mean
             docker-compose pull
             docker-compose up -d
